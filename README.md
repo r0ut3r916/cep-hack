@@ -7,7 +7,7 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/r0ut3r916/cep-hack)
 ![GitHub Repo stars](https://img.shields.io/github/stars/r0ut3r916/cep-hack)
-![GitHub repo size](https://img.shields.io/github/repo-size/r0ut3r916/cep-hack)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/r0ut3r916/cep-hack)
 
 
 </div>
