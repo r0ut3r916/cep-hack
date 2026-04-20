@@ -68,7 +68,7 @@ python release.py -d [chrome或chrome-headless-shell路径]
 
 
 ### 使用整合包
-下载并解压`script_.7z`
+下载并解压`script_win64.7z`
 #### Windows 用户
 ##### 默认配置
 双击`release.exe`
